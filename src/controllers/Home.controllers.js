@@ -8,8 +8,5 @@ const homeController = {
     res.send("I'm Alive!")
     },
 };
-// (req, res)=>{
-//     res.json(statusCode.statusCode200)
-// })
 
 export { homeController }
